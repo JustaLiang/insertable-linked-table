@@ -1,7 +1,7 @@
 # Insertable Linked Table
 Modification of linked-table module from Mysten Labs.
 
-## CLI
+## Build & Test
 Build
 ```
 sui move build
